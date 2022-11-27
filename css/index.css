@@ -1,0 +1,23 @@
+.carousel-item p {
+  height: 80px;
+}
+.answer-on-questions__header{
+  font-size: 36px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.answer-on-questions{
+  padding-bottom: 60px;
+}
+.footer{
+  height: 70px;
+  background-color: brown;
+}
+.footer__text{
+  padding-top: 20px;
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+}
